@@ -1,0 +1,1 @@
+This repository contains the excel file used for annotations in our paper: "Ara-HOPE: Human-Centric Post-Editing Evaluation for Dialectal Arabic to Modern Standard Arabic Translation”. The paper can be found at : [https://www.arxiv.org/abs/2512.21787](https://www.arxiv.org/abs/2512.21787)
